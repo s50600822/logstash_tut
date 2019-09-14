@@ -1,0 +1,1 @@
+2019-09-14 21:45:32.883 DEBUG [-,,,] 7 --- [pool-10-thread-1] com.netflix.conductor.core.execution.tasks.SystemTaskWorkerCoordinator : [a:b] [c:d] Polling for KAFKA_PUBLISH, got 0 tasks
