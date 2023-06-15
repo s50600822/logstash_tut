@@ -4,7 +4,7 @@
 brew tap elastic/tap
 brew install elastic/tap/logstash-full
 ```
-- elastic ready to served
+- elastic ready to serve
 ```
 # can get it from git@github.com:s50600822/conductor-cheat.git, under conductor-cheat/es
 docker-compose-up up
